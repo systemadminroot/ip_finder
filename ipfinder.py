@@ -1,5 +1,5 @@
 import socket
 
-ip = socket.gethostbyname(input("Host manzilli kiriting: "))
+ip = socket.gethostbyname(input("Host name enter: "))
 
 print(ip)
